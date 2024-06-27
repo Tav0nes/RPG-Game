@@ -1,1 +1,1 @@
-{"Name": "Gustavo", "Level": 1, "XP": 7, "XP_max": 30, "HP": 100, "HP_max": 100, "Damage": 25, "Gold": 10, "Skills": {"Sword Mastery": 1}, "Abilities": {"Seismic Smash": {"Damage": 50, "Cooldown": 3}}}
+{"Name": "Gustavo", "Level": 2, "XP": 0, "XP_max": 60, "HP": 200, "HP_max": 200, "Damage": 35, "Gold": 50, "Skills": {"Sword Mastery": 1}, "Abilities": {"Seismic Smash": {"Damage": 50, "Cooldown": 3}}}
