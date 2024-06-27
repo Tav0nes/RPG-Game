@@ -144,6 +144,7 @@ generate_npcs(5)
 
 targeted_npc = list_npcs[0]
 load_player()
-start_battle(targeted_npc)
+while ({player['Level']} != 5):
+  start_battle(targeted_npc)
 save_player()
 print_player()
